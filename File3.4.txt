@@ -1,0 +1,1 @@
+er stroy 4  is fullusr/bin/bash: line 1: q: command not found
